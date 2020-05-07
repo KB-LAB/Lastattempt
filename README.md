@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Karabo Sephofane
 
 You can use the [editor on GitHub](https://github.com/KB-LAB/Lastattempt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Education
+Completed a BSc in Microbiology and a BSc(Hons) in Medical Microbiology at the University of Pretoria
+## About myself
+Career driven and curious. I enjoy learning new skills and applying them to real life problems. I am very uch updated with current afairs and enjoy day to day constructive conversations with new people.
+### Role
+Dimendion Data Graduate Accelerate Program Intern 
 
 - Bulleted
 - List
