@@ -1,11 +1,11 @@
 ## Karabo Sephofane
 
-You can use the [editor on GitHub](https://github.com/KB-LAB/Lastattempt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Career driven and curious. I enjoy learning new skills and applying them to real life problems. I am very uch updated with current afairs and enjoy day to day constructive conversations with new people.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### Role
+Dimendion Data Graduate Accelerate Program Intern 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
