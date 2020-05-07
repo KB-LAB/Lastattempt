@@ -1,4 +1,6 @@
 ## Karabo Sephofane
+## Role
+Dimension Data Graduate Accelerate Program Graduate Intern
 ### Role
 Dimendion Data Graduate Accelerate Program Intern
 Career driven and curious. I enjoy learning new skills and applying them to real life problems. I am very uch updated with current afairs and enjoy day to day constructive conversations with new people.
